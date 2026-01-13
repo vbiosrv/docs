@@ -47,8 +47,8 @@ mkdir -p /opt/shm/ && cd /opt/shm
 Скачайте файлы `docker-compose.yml` и `.env`
 
 ```bash
-curl -sO https://raw.githubusercontent.com/danuk/shm/master/docker-compose.yml
-curl -sO https://raw.githubusercontent.com/danuk/shm/master/.env
+curl -sO https://raw.githubusercontent.com/vbiosrv/shm/master/docker-compose.yml
+curl -sO https://raw.githubusercontent.com/vbiosrv/shm/master/.env
 ```
 
 > при желании вы можете изменить пароли для БД в файле `.env`
